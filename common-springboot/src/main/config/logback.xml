@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <configuration>
-    <property name="LOG_HOME" value="/var/develop/application-common/log" />
-    <substitutionProperty name="log.base" value="common" />
+    <property name="LOG_HOME" value="/var/develop/springboot/log" />
+    <substitutionProperty name="log.base" value="springboot" />
 
     <jmxConfigurator />
 
